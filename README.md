@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0096&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0E0E0&size=35&center=true&vCenter=true&width=1000&lines=OL%C3%81,+Meu+nome+%C3%A9+Kayky+Teixeira;Analista+de+Dados+%26+Desenvolvedor;Ex-VWCO;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0E0E0&size=35&center=true&vCenter=true&width=1000&lines=OL%C3%81,+Meu+nome+%C3%A9+Kayky+Teixeira;Analista+de+Dados;Ex-VWCO;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
 ### 📊 Olá! Eu sou o Kayky Teixeira
 
